@@ -16,7 +16,7 @@ Senior Full Stack Developer & IT Technical Lead | Dubai, UAE | 10+ Years Experie
 |--------|------|
 | **Type** | Custom Web Application |
 | **Platform** | PHP + MySQL (Custom Built) |
-| **Client** | Billionaire Homes Dubai — Real Estate Company |
+
 
 **What I built:**
 - Built a full digital KYC onboarding system for real estate customers
@@ -38,7 +38,7 @@ Senior Full Stack Developer & IT Technical Lead | Dubai, UAE | 10+ Years Experie
 |--------|------|
 | **Type** | Real-time Analytics Dashboard |
 | **Platform** | PHP + MySQL (Custom Built) |
-| **Client** | Billionaire Homes Dubai — Real Estate Company |
+
 
 **What I built:**
 - Built a live call performance tracking dashboard for a 40+ agent sales team
@@ -59,7 +59,7 @@ Senior Full Stack Developer & IT Technical Lead | Dubai, UAE | 10+ Years Experie
 |--------|------|
 | **Type** | Custom Web Application |
 | **Platform** | PHP + MySQL (Custom Built) |
-| **Client** | Billionaire Homes Dubai — Real Estate Company |
+
 
 **What I built:**
 - Designed and developed a fully custom HRMS from scratch
